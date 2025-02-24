@@ -12,7 +12,7 @@ This project requires Node.js (version 12 or higher). Please ensure that Node.js
 
 To install the package as a development dependency, run:
 
-npm install @yourname/financial-calculator --save-dev
+npm install @chrisurban/financial-calculator --save-dev
 
 ## Usage
 
